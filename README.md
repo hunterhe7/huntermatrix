@@ -1,6 +1,5 @@
 ### Hi there, I'm Hunter 👋
 
-- 🔨 JavaScript
 <!--
 **huntermatrix/huntermatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
