@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2016%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,5 +37,5 @@ Mac                      2 hrs 45 mins       ███████████�
 ```
 
 
- Last Updated on 21/02/2023 05:40:37 UTC
+ Last Updated on 21/02/2023 18:38:30 UTC
 <!--END_SECTION:waka-->
