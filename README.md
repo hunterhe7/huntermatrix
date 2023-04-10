@@ -16,21 +16,22 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%208%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     19 mins             ██████████████████████░░░   89.96 % 
+JavaScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/04/2023 18:33:44 UTC
+ Last Updated on 10/04/2023 18:34:22 UTC
 <!--END_SECTION:waka-->
