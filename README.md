@@ -16,21 +16,25 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2050%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 10 mins        █████████████░░░░░░░░░░░░   53.64 % 
+JavaScript               28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+TSConfig                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/05/2023 18:33:31 UTC
+ Last Updated on 14/05/2023 18:33:36 UTC
 <!--END_SECTION:waka-->
